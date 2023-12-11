@@ -1,0 +1,49 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+}
+body{
+    background-image: url("/img/catherine-avak-H3Hy89g-L90-unsplash.jpg");
+    background-position: center;
+}
+h1{
+    color: rgb(206, 51, 51);
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+table{
+    margin: auto;
+}
+input
+{
+    font-size: 25px;
+    border: 2px solid rgb(129, 127, 111);
+    border-radius: 10px;
+    height: 40px;
+    background-color: black;
+    opacity: 0.5;
+    color: wheat;
+    
+}
+button{
+    font-size: 23px;
+    background-color: rgb(10, 245, 245);
+    width: 77px;
+    height: 60px;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+button:hover{
+    background-color: indianred;
+}
+.Cal{
+    display: inline-block;
+    background-color: rgba(152, 161, 150, 0.719);
+    padding: 18px;
+    border-radius: 15px;
+    border: 4px solid black; 
+    opacity: 0.7;
+
+}
